@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-06-14T12:40:03.661+03:00
+  lastUpdatedAtString: 2021-06-14T12:40:09.424+03:00
   initializedAtString: 2021-06-14T11:34:16.959+03:00
   entries:
   - path: Positive Negative\Assets\Audio.meta
@@ -349,18 +349,6 @@ MonoBehaviour:
   - path: Positive Negative\Library\gfu\cache\branches.yaml
     fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Positive Negative\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Positive Negative\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
