@@ -1,0 +1,1098 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-06-14T12:38:23.506+03:00
+  initializedAtString: 2021-06-14T11:34:16.959+03:00
+  entries:
+  - path: Positive Negative\Assets\Audio.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Audio.meta
+    projectPath: Assets\Audio.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Physics.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Physics.meta
+    projectPath: Assets\Physics.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Physics\Slippery.physicsMaterial2D
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Physics\Slippery.physicsMaterial2D
+    projectPath: Assets\Physics\Slippery.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Physics\Slippery.physicsMaterial2D.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Physics\Slippery.physicsMaterial2D.meta
+    projectPath: Assets\Physics\Slippery.physicsMaterial2D.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ArtifactDB
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\Artifacts\00\006d69cebe45eb9ffb08cb3cfb295e50
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\00\006d69cebe45eb9ffb08cb3cfb295e50
+    projectPath: Library\Artifacts\00\006d69cebe45eb9ffb08cb3cfb295e50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\05\05dab675ece00c9f87dde252e82941cf
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\05\05dab675ece00c9f87dde252e82941cf
+    projectPath: Library\Artifacts\05\05dab675ece00c9f87dde252e82941cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\09\090496aae697f61da3af2629c85716c5
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\09\090496aae697f61da3af2629c85716c5
+    projectPath: Library\Artifacts\09\090496aae697f61da3af2629c85716c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\10\10c33111f870ce54c01031136d394220
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\10\10c33111f870ce54c01031136d394220
+    projectPath: Library\Artifacts\10\10c33111f870ce54c01031136d394220
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\17\17f0ec8a920c731591b6fa70b27df938
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\17\17f0ec8a920c731591b6fa70b27df938
+    projectPath: Library\Artifacts\17\17f0ec8a920c731591b6fa70b27df938
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\1c\1c2bb330bbf6ddf6c60879be3234c401
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\1c\1c2bb330bbf6ddf6c60879be3234c401
+    projectPath: Library\Artifacts\1c\1c2bb330bbf6ddf6c60879be3234c401
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\1f\1fdec0bf1529534f36a4282778494f72
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\1f\1fdec0bf1529534f36a4282778494f72
+    projectPath: Library\Artifacts\1f\1fdec0bf1529534f36a4282778494f72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\22\22b09c3b3c8c91daa38981397e0a6b23
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\22\22b09c3b3c8c91daa38981397e0a6b23
+    projectPath: Library\Artifacts\22\22b09c3b3c8c91daa38981397e0a6b23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\25\250fdc216a0b9eea3bc8c50d56f655b9
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\25\250fdc216a0b9eea3bc8c50d56f655b9
+    projectPath: Library\Artifacts\25\250fdc216a0b9eea3bc8c50d56f655b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\27\27a191a4de9928112e58371457268bfa
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\27\27a191a4de9928112e58371457268bfa
+    projectPath: Library\Artifacts\27\27a191a4de9928112e58371457268bfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\2b\2bff18194ec387daf2477a8201451c3a
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\2b\2bff18194ec387daf2477a8201451c3a
+    projectPath: Library\Artifacts\2b\2bff18194ec387daf2477a8201451c3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\33\3366c7f22b3c9f13afa35a75bca62a1b
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\33\3366c7f22b3c9f13afa35a75bca62a1b
+    projectPath: Library\Artifacts\33\3366c7f22b3c9f13afa35a75bca62a1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\34\3415c59313775e0275b604690fa54623
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\34\3415c59313775e0275b604690fa54623
+    projectPath: Library\Artifacts\34\3415c59313775e0275b604690fa54623
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\37\37fcbae463e8866fb90d7a44c7b3d9af
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\37\37fcbae463e8866fb90d7a44c7b3d9af
+    projectPath: Library\Artifacts\37\37fcbae463e8866fb90d7a44c7b3d9af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\39\3921c063dcbeeeb5c7ce54fb31a66200
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\39\3921c063dcbeeeb5c7ce54fb31a66200
+    projectPath: Library\Artifacts\39\3921c063dcbeeeb5c7ce54fb31a66200
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\55\55c412edc3d528e45410a63a25339ce3
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\55\55c412edc3d528e45410a63a25339ce3
+    projectPath: Library\Artifacts\55\55c412edc3d528e45410a63a25339ce3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\56\56bbad125105b67f59816eccbf0125e5
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\56\56bbad125105b67f59816eccbf0125e5
+    projectPath: Library\Artifacts\56\56bbad125105b67f59816eccbf0125e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\68\68f0dca4ab634f6d977933a0513266fd
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\68\68f0dca4ab634f6d977933a0513266fd
+    projectPath: Library\Artifacts\68\68f0dca4ab634f6d977933a0513266fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\74\7458387c2f42c30f5e92ab280a00d4de
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\74\7458387c2f42c30f5e92ab280a00d4de
+    projectPath: Library\Artifacts\74\7458387c2f42c30f5e92ab280a00d4de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\78\78eb631a0298c222a31be9461292b867
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\78\78eb631a0298c222a31be9461292b867
+    projectPath: Library\Artifacts\78\78eb631a0298c222a31be9461292b867
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\78\78ec260a9c28fa36ee16b62cd20d5606
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\78\78ec260a9c28fa36ee16b62cd20d5606
+    projectPath: Library\Artifacts\78\78ec260a9c28fa36ee16b62cd20d5606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\7a\7a9eaca1355141ed5c8fc34bc2042f21
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\7a\7a9eaca1355141ed5c8fc34bc2042f21
+    projectPath: Library\Artifacts\7a\7a9eaca1355141ed5c8fc34bc2042f21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\7f\7f6885bd62c8eaf6801c69c7e96ee7b5
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\7f\7f6885bd62c8eaf6801c69c7e96ee7b5
+    projectPath: Library\Artifacts\7f\7f6885bd62c8eaf6801c69c7e96ee7b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\86\86e6e6c4024aecba31ad26374bc7b445
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\86\86e6e6c4024aecba31ad26374bc7b445
+    projectPath: Library\Artifacts\86\86e6e6c4024aecba31ad26374bc7b445
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\87\87599561710250ac2c4d4c107bab2c4d
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\87\87599561710250ac2c4d4c107bab2c4d
+    projectPath: Library\Artifacts\87\87599561710250ac2c4d4c107bab2c4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\8a\8a14120af04d58dc4cfdea8216216657
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\8a\8a14120af04d58dc4cfdea8216216657
+    projectPath: Library\Artifacts\8a\8a14120af04d58dc4cfdea8216216657
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\8a\8a4b08e60e6ab5d2d3b5e533724b45e4
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\8a\8a4b08e60e6ab5d2d3b5e533724b45e4
+    projectPath: Library\Artifacts\8a\8a4b08e60e6ab5d2d3b5e533724b45e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\9f\9fe0ba785fbafd90dbd8103df70337f5
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\9f\9fe0ba785fbafd90dbd8103df70337f5
+    projectPath: Library\Artifacts\9f\9fe0ba785fbafd90dbd8103df70337f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\a3\a3a9794182a81a714f52815a4f3cf597
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\a3\a3a9794182a81a714f52815a4f3cf597
+    projectPath: Library\Artifacts\a3\a3a9794182a81a714f52815a4f3cf597
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\a5\a5261f94ea6b431edd4d1d74d9331c5b
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\a5\a5261f94ea6b431edd4d1d74d9331c5b
+    projectPath: Library\Artifacts\a5\a5261f94ea6b431edd4d1d74d9331c5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\a8\a82007dcbad211d04951f63287355050
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\a8\a82007dcbad211d04951f63287355050
+    projectPath: Library\Artifacts\a8\a82007dcbad211d04951f63287355050
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\b1\b1e9715b02b7c87a2b583d8fed72a001
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\b1\b1e9715b02b7c87a2b583d8fed72a001
+    projectPath: Library\Artifacts\b1\b1e9715b02b7c87a2b583d8fed72a001
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\b7\b7ae45c26682eca18c5b6ecc14ea5afb
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\b7\b7ae45c26682eca18c5b6ecc14ea5afb
+    projectPath: Library\Artifacts\b7\b7ae45c26682eca18c5b6ecc14ea5afb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\ba\ba4377aa82649e9b7bca4bb10aaa21e0
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\ba\ba4377aa82649e9b7bca4bb10aaa21e0
+    projectPath: Library\Artifacts\ba\ba4377aa82649e9b7bca4bb10aaa21e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\c4\c41d374022e467878df57d02243ed69a
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\c4\c41d374022e467878df57d02243ed69a
+    projectPath: Library\Artifacts\c4\c41d374022e467878df57d02243ed69a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\c5\c5091841dbca78aedaec045daa0eb635
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\c5\c5091841dbca78aedaec045daa0eb635
+    projectPath: Library\Artifacts\c5\c5091841dbca78aedaec045daa0eb635
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\d2\d2d6d3c942d98841cea21901c3ce7c3b
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\d2\d2d6d3c942d98841cea21901c3ce7c3b
+    projectPath: Library\Artifacts\d2\d2d6d3c942d98841cea21901c3ce7c3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\d2\d2f0b377a0dbbf3f75e215a5e930426a
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\d2\d2f0b377a0dbbf3f75e215a5e930426a
+    projectPath: Library\Artifacts\d2\d2f0b377a0dbbf3f75e215a5e930426a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\db\db54203133439440cf03822ffa166ebb
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\db\db54203133439440cf03822ffa166ebb
+    projectPath: Library\Artifacts\db\db54203133439440cf03822ffa166ebb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\e1\e155a8fae90d4309647d4a117cae6c7a
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\e1\e155a8fae90d4309647d4a117cae6c7a
+    projectPath: Library\Artifacts\e1\e155a8fae90d4309647d4a117cae6c7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\e6\e6ba67a5c5264d69c32429f1e81316e2
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\e6\e6ba67a5c5264d69c32429f1e81316e2
+    projectPath: Library\Artifacts\e6\e6ba67a5c5264d69c32429f1e81316e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\eb\eb2222e5a199599bfd91a715d4884753
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\eb\eb2222e5a199599bfd91a715d4884753
+    projectPath: Library\Artifacts\eb\eb2222e5a199599bfd91a715d4884753
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\ef\ef5bbfebb1d8a76f5b6599cd0bebdcad
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\ef\ef5bbfebb1d8a76f5b6599cd0bebdcad
+    projectPath: Library\Artifacts\ef\ef5bbfebb1d8a76f5b6599cd0bebdcad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\f2\f204ed0eb43a87fe4378d41692927d93
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\f2\f204ed0eb43a87fe4378d41692927d93
+    projectPath: Library\Artifacts\f2\f204ed0eb43a87fe4378d41692927d93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\f4\f4e6ab028d9bb35346df8c37df0c0b65
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\f4\f4e6ab028d9bb35346df8c37df0c0b65
+    projectPath: Library\Artifacts\f4\f4e6ab028d9bb35346df8c37df0c0b65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\f5\f512e88fc9d40d23776ec76479f991ff
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\f5\f512e88fc9d40d23776ec76479f991ff
+    projectPath: Library\Artifacts\f5\f512e88fc9d40d23776ec76479f991ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\f5\f57cb7ac33f413014dad6fac85a31450
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\f5\f57cb7ac33f413014dad6fac85a31450
+    projectPath: Library\Artifacts\f5\f57cb7ac33f413014dad6fac85a31450
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\fd\fd56b65cb65a7801584a744357b1084d
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\fd\fd56b65cb65a7801584a744357b1084d
+    projectPath: Library\Artifacts\fd\fd56b65cb65a7801584a744357b1084d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\Artifacts\fe\fe40124f2faa000190cef0f50b82e7f6
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\Artifacts\fe\fe40124f2faa000190cef0f50b82e7f6
+    projectPath: Library\Artifacts\fe\fe40124f2faa000190cef0f50b82e7f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\EditorInstance.json
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\branches.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\InspectorExpandedItems.asset
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\PackageManager\ProjectCache
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\SceneVisibilityState.asset
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\ShaderCache\0\0687de20eb0a05ad2b24ed56d520f963.bin
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ShaderCache\0\0687de20eb0a05ad2b24ed56d520f963.bin
+    projectPath: Library\ShaderCache\0\0687de20eb0a05ad2b24ed56d520f963.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\ShaderCache\0\0d52dde11fca841d2621b17879dd21dc.bin
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ShaderCache\0\0d52dde11fca841d2621b17879dd21dc.bin
+    projectPath: Library\ShaderCache\0\0d52dde11fca841d2621b17879dd21dc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\SourceAssetDB
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Logs\AssetImportWorker0.log
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\ProjectSettings\InputManager.asset
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\ProjectSettings\TagManager.asset
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Positive Negative\Temp\__Backupscenes\0.backup
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\CompilationLog.txt
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityLockfile
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-1f5907661d5b57f478d094cb1823dbfe
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-1f5907661d5b57f478d094cb1823dbfe
+    projectPath: Temp\UnityTempFile-1f5907661d5b57f478d094cb1823dbfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-24d75c85c924ee9419e33a92491449ce
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-24d75c85c924ee9419e33a92491449ce
+    projectPath: Temp\UnityTempFile-24d75c85c924ee9419e33a92491449ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-2a84b88c1a52e56419b58b1c08c3c4ce
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-2a84b88c1a52e56419b58b1c08c3c4ce
+    projectPath: Temp\UnityTempFile-2a84b88c1a52e56419b58b1c08c3c4ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-633a1fe3c00032d4fb6b2ed41afa6fc8
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-633a1fe3c00032d4fb6b2ed41afa6fc8
+    projectPath: Temp\UnityTempFile-633a1fe3c00032d4fb6b2ed41afa6fc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-637143bc2c0e772478792b2d327f4442
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-637143bc2c0e772478792b2d327f4442
+    projectPath: Temp\UnityTempFile-637143bc2c0e772478792b2d327f4442
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-840e1139bc451194eb2bc4fb9f3461fb
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-840e1139bc451194eb2bc4fb9f3461fb
+    projectPath: Temp\UnityTempFile-840e1139bc451194eb2bc4fb9f3461fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-c1d17da3280408a428ff5790cc520d30
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-c1d17da3280408a428ff5790cc520d30
+    projectPath: Temp\UnityTempFile-c1d17da3280408a428ff5790cc520d30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\UnityTempFile-de7e2d9bfe66b384589bba4c0ddf64ca
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\UnityTempFile-de7e2d9bfe66b384589bba4c0ddf64ca
+    projectPath: Temp\UnityTempFile-de7e2d9bfe66b384589bba4c0ddf64ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Positive Negative\Temp\workerlic
+    fullPath: C:\Projects\PositiveNegativeJam\Positive Negative\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
